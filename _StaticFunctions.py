@@ -1668,4 +1668,4 @@ def AmountCompare(self,parameters):
         logging.debug(f"error in compare key value {left_param_value} {operator} {right_param_value}")
         logging.debug(str(e))
         return False
-    
+# sample test
